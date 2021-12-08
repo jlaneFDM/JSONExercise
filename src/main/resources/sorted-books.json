@@ -1,0 +1,25 @@
+[ {
+  "title" : "Apples and Oranges",
+  "author" : "Jane McFruit",
+  "isbn" : "123456789-X"
+}, {
+  "title" : "Barrels of Fun",
+  "author" : "DK Rowing",
+  "isbn" : "553723110-5"
+}, {
+  "title" : "Crowds are Scary",
+  "author" : "Agora Fobia",
+  "isbn" : "928503745-3"
+}, {
+  "title" : "Day Knight",
+  "author" : "Pun R. Good",
+  "isbn" : "830456394-2"
+}, {
+  "title" : "Egrigious Spelling Mistakes",
+  "author" : "I.M. Rong, PhD",
+  "isbn" : "927405730-9"
+}, {
+  "title" : "Five by Five",
+  "author" : "V. Multiplied",
+  "isbn" : "472398474-5"
+} ]
